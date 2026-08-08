@@ -59,7 +59,7 @@ Both models train on the same 80/20 split, seeded at 42 and stratified on `prope
 
 **Selection rule: lowest test MAE.** 
 
-Four features are derived rather than collected, because the dataset does not support entering them independently:
+Four features are derived from the inputs for tab 3 following their context from the original notebook.
 
 ## Links
 
