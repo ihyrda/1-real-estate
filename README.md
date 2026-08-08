@@ -63,5 +63,5 @@ Four features are derived rather than collected, because the dataset does not su
 
 ## Links
 
-- GitHub repository: _to be added after upload_
-- Deployed Streamlit app: _to be added after deployment_
+- GitHub repository: https://github.com/ihyrda/1-real-estate/
+- Deployed Streamlit app: https://1-real-estate-ihyrda.streamlit.app/
